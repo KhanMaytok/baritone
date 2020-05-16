@@ -1,25 +1,7 @@
-.DS_Store
-**/*.swp
-
-run/
-autotest/
-dist/
-
-# Gradle
-build/
-.gradle/
-classes/
-*.class
-
-/out
-
-# IntelliJ Files
-.idea/
-*.iml
-*.ipr
-*.iws
-/logs/
-
-# Copyright Files
-!/.idea/copyright/Baritone.xml
-!/.idea/copyright/profiles_settings.xml
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
